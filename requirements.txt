@@ -1,0 +1,11 @@
+pandas
+spacy
+gensim
+unidecode
+numpy
+scikit-learn
+pickle-mixin
+python-dotenv
+fastapi
+uvicorn
+./fr_core_news_sm-3.4.0.tar.gz

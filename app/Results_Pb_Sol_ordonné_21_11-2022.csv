@@ -1,0 +1,989 @@
+﻿;Cluster;Nom_Cluster;Cluster_S;Nom_Cluster_Sol;Count_Cluster_S
+20;0;ams monitoring alert node gn2532afis1 ;29;equipement joignable cloturon ;27
+1;0;ams monitoring alert node gn2532afis1 ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;15
+29;0;ams monitoring alert node gn2532afis1 ;47;lien bien joignable cloturon ticket ;15
+12;0;ams monitoring alert node gn2532afis1 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;12
+5;0;ams monitoring alert node gn2532afis1 ;6;redemarrage le equipement fournir lien mpl ;9
+46;1;perte connexion fgt site fr1892a ;22;service retablir suite redemarrage electrique routeur ;60
+41;1;perte connexion fgt site fr1892a ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;26
+62;1;perte connexion fgt site fr1892a ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;26
+34;1;perte connexion fgt site fr1892a ;6;redemarrage le equipement fournir lien mpl ;20
+32;1;perte connexion fgt site fr1892a ;3;coupure electrique ;19
+77;2;airbus elancourt confirmation rmer axians spie ;13;pb regler ;92
+106;2;airbus elancourt confirmation rmer axians spie ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;82
+80;2;airbus elancourt confirmation rmer axians spie ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;76
+98;2;airbus elancourt confirmation rmer axians spie ;39;nom ;49
+69;2;airbus elancourt confirmation rmer axians spie ;4;perimetr ;46
+117;3;probleme internet ;20;site nouveau operationnelle ;12
+115;3;probleme internet ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;9
+110;3;probleme internet ;8;defaut serveur nagios axian ;8
+112;3;probleme internet ;13;pb regler ;7
+127;3;probleme internet ;37;resolu ;6
+134;4;ams monitoring alert node ma2843afis1 ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;52
+146;4;ams monitoring alert node ma2843afis1 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;47
+150;4;ams monitoring alert node ma2843afis1 ;20;site nouveau operationnelle ;44
+159;4;ams monitoring alert node ma2843afis1 ;29;equipement joignable cloturon ;39
+173;4;ams monitoring alert node ma2843afis1 ;47;lien bien joignable cloturon ticket ;32
+207;5;demande support ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;19
+194;5;demande support ;33;demande traiter ;14
+203;5;demande support ;43;remplacement power injector ;13
+191;5;demande support ;23;client ;12
+185;5;demande support ;13;pb regler ;10
+218;6;probleme connexion distanc ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;57
+215;6;probleme connexion distanc ;13;pb regler ;38
+240;6;probleme connexion distanc ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;32
+219;6;probleme connexion distanc ;20;site nouveau operationnelle ;20
+210;6;probleme connexion distanc ;4;perimetr ;18
+264;7;probleme switch ;43;remplacement power injector ;29
+251;7;probleme switch ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;14
+260;7;probleme switch ;36;erreur sup ;14
+248;7;probleme switch ;13;pb regler ;11
+261;7;probleme switch ;37;resolu ;9
+294;8;modem cxr hs ;43;remplacement power injector ;46
+297;8;modem cxr hs ;46;validation supervision ;41
+283;8;modem cxr hs ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;20
+278;8;modem cxr hs ;20;site nouveau operationnelle ;19
+289;8;modem cxr hs ;36;erreur sup ;19
+313;9;data center courbevoie sur sev2 c19726611 notification suivre ;38;ferme sfr ;21
+300;9;data center courbevoie sur sev2 c19726611 notification suivre ;2;cloture dossier ;11
+306;9;data center courbevoie sur sev2 c19726611 notification suivre ;17;cloture ;4
+301;9;data center courbevoie sur sev2 c19726611 notification suivre ;4;perimetr ;3
+299;9;data center courbevoie sur sev2 c19726611 notification suivre ;0;site ok ;2
+328;10;advitam bascule ;13;pb regler ;108
+356;10;advitam bascule ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;92
+331;10;advitam bascule ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;67
+320;10;advitam bascule ;4;perimetr ;62
+347;10;advitam bascule ;39;nom ;58
+369;11;message meets alert condition ;20;site nouveau operationnelle ;17
+389;11;message meets alert condition ;48;site ok cloture ;17
+362;11;message meets alert condition ;10;clotur stabilite lien ;9
+363;11;message meets alert condition ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;9
+380;11;message meets alert condition ;35;situation nominal ;9
+416;12;borne wifi kerio hs ;44;remplacemer switch ;42
+415;12;borne wifi kerio hs ;43;remplacement power injector ;38
+411;12;borne wifi kerio hs ;36;erreur sup ;36
+397;12;borne wifi kerio hs ;13;pb regler ;16
+418;12;borne wifi kerio hs ;46;validation supervision ;14
+445;13;probleme licence switch ;43;remplacement power injector ;28
+448;13;probleme licence switch ;46;validation supervision ;18
+442;13;probleme licence switch ;36;erreur sup ;17
+430;13;probleme licence switch ;13;pb regler ;16
+449;13;probleme licence switch ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;16
+480;14;cmer cgm france marseille quer de arenc cisco support required ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;35
+459;14;cmer cgm france marseille quer de arenc cisco support required ;13;pb regler ;25
+453;14;cmer cgm france marseille quer de arenc cisco support required ;4;perimetr ;17
+461;14;cmer cgm france marseille quer de arenc cisco support required ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;17
+462;14;cmer cgm france marseille quer de arenc cisco support required ;20;site nouveau operationnelle ;14
+491;15;wifi le hotel ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;19
+489;15;wifi le hotel ;13;pb regler ;12
+483;15;wifi le hotel ;4;perimetr ;11
+497;15;wifi le hotel ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;8
+503;15;wifi le hotel ;37;resolu ;8
+524;16;2 switch hs ;36;erreur sup ;11
+526;16;2 switch hs ;43;remplacement power injector ;10
+529;16;2 switch hs ;46;validation supervision ;10
+513;16;2 switch hs ;4;perimetr ;9
+530;16;2 switch hs ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;6
+545;17;ams monitoring alert ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;354
+557;17;ams monitoring alert ;29;equipement joignable cloturon ;208
+562;17;ams monitoring alert ;35;situation nominal ;199
+572;17;ams monitoring alert ;47;lien bien joignable cloturon ticket ;198
+537;17;ams monitoring alert ;6;redemarrage le equipement fournir lien mpl ;192
+594;18;rt down ;28;equipemer retablir ;95
+586;18;rt down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;46
+589;18;rt down ;22;service retablir suite redemarrage electrique routeur ;35
+595;18;rt down ;29;equipement joignable cloturon ;35
+575;18;rt down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;34
+623;19;fra griege avoir sfr down ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;12
+625;19;fra griege avoir sfr down ;20;site nouveau operationnelle ;9
+641;19;fra griege avoir sfr down ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;9
+622;19;fra griege avoir sfr down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;8
+636;19;fra griege avoir sfr down ;37;resolu ;8
+668;20;alerte licence ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;14
+662;20;alerte licence ;39;nom ;10
+664;20;alerte licence ;43;remplacement power injector ;8
+658;20;alerte licence ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;7
+661;20;alerte licence ;37;resolu ;7
+686;21;pbl vpn ;20;site nouveau operationnelle ;41
+673;21;pbl vpn ;4;perimetr ;31
+681;21;pbl vpn ;13;pb regler ;29
+701;21;pbl vpn ;37;resolu ;29
+684;21;pbl vpn ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;26
+720;22;demande rma ;33;demande traiter ;6
+725;22;demande rma ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;5
+722;22;demande rma ;37;resolu ;4
+716;22;demande rma ;13;pb regler ;2
+717;22;demande rma ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;2
+753;23;reponse ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;24
+751;23;reponse ;40;service stable equipement bien remonter supervision validon bon retour service procedon clotur ticket ;23
+733;23;reponse ;10;clotur stabilite lien ;22
+741;23;reponse ;20;site nouveau operationnelle ;17
+756;23;reponse ;48;site ok cloture ;14
+763;24;problem business proces infra lan v2 zone mole critical ;13;pb regler ;17
+765;24;problem business proces infra lan v2 zone mole critical ;20;site nouveau operationnelle ;9
+773;24;problem business proces infra lan v2 zone mole critical ;39;nom ;9
+759;24;problem business proces infra lan v2 zone mole critical ;4;perimetr ;8
+764;24;problem business proces infra lan v2 zone mole critical ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;7
+795;25;lactalis informatique sur lactali sev3 sur c23766593 notification de ouverture de incident service sfr business ;38;ferme sfr ;244
+790;25;lactalis informatique sur lactali sev3 sur c23766593 notification de ouverture de incident service sfr business ;32;notification clotur ;32
+785;25;lactalis informatique sur lactali sev3 sur c23766593 notification de ouverture de incident service sfr business ;17;cloture ;30
+787;25;lactalis informatique sur lactali sev3 sur c23766593 notification de ouverture de incident service sfr business ;23;client ;22
+784;25;lactalis informatique sur lactali sev3 sur c23766593 notification de ouverture de incident service sfr business ;14;le incident etre resoudre le operateur ;21
+817;26;rt down attent sfr ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;19
+806;26;rt down attent sfr ;14;le incident etre resoudre le operateur ;9
+807;26;rt down attent sfr ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;6
+811;26;rt down attent sfr ;35;situation nominal ;6
+808;26;rt down attent sfr ;20;site nouveau operationnelle ;5
+837;27;borne repond ;36;erreur sup ;32
+840;27;borne repond ;43;remplacement power injector ;25
+844;27;borne repond ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;20
+827;27;borne repond ;13;pb regler ;19
+841;27;borne repond ;44;remplacemer switch ;19
+864;28;message de erreur switch ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;12
+860;28;message de erreur switch ;43;remplacement power injector ;9
+849;28;message de erreur switch ;13;pb regler ;7
+857;28;message de erreur switch ;37;resolu ;7
+862;28;message de erreur switch ;46;validation supervision ;6
+876;29;incider uccopia ;13;pb regler ;84
+879;29;incider uccopia ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;75
+904;29;incider uccopia ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;71
+893;29;incider uccopia ;37;resolu ;26
+895;29;incider uccopia ;39;nom ;26
+905;30;fw down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;34
+917;30;fw down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;26
+909;30;fw down ;6;redemarrage le equipement fournir lien mpl ;17
+932;30;fw down ;35;situation nominal ;12
+920;30;fw down ;20;site nouveau operationnelle ;11
+973;31;coupure reseau ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;17
+956;31;coupure reseau ;20;site nouveau operationnelle ;15
+959;31;coupure reseau ;23;client ;9
+960;31;coupure reseau ;24;doublon ;9
+967;31;coupure reseau ;35;situation nominal ;9
+988;32;connexion pc2010 caluir delta securite ko ;13;pb regler ;39
+992;32;connexion pc2010 caluir delta securite ko ;20;site nouveau operationnelle ;30
+1005;32;connexion pc2010 caluir delta securite ko ;37;resolu ;19
+991;32;connexion pc2010 caluir delta securite ko ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;15
+1014;32;connexion pc2010 caluir delta securite ko ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;15
+1024;33;probleme de antenne ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;25
+1026;33;probleme de antenne ;20;site nouveau operationnelle ;18
+1045;33;probleme de antenne ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;18
+1021;33;probleme de antenne ;13;pb regler ;17
+1027;33;probleme de antenne ;21;lien operationnel connexion ok ;16
+1066;34;lactalis informatique petit fayt sur sev1 c21119621 notification suivre de incident service sfr business ;38;ferme sfr ;218
+1061;34;lactalis informatique petit fayt sur sev1 c21119621 notification suivre de incident service sfr business ;32;notification clotur ;27
+1069;34;lactalis informatique petit fayt sur sev1 c21119621 notification suivre de incident service sfr business ;48;site ok cloture ;20
+1046;34;lactalis informatique petit fayt sur sev1 c21119621 notification suivre de incident service sfr business ;0;site ok ;16
+1048;34;lactalis informatique petit fayt sur sev1 c21119621 notification suivre de incident service sfr business ;4;perimetr ;15
+1094;35;ap reserve hs ;46;validation supervision ;21
+1091;35;ap reserve hs ;43;remplacement power injector ;20
+1092;35;ap reserve hs ;44;remplacemer switch ;10
+1089;35;ap reserve hs ;36;erreur sup ;8
+1073;35;ap reserve hs ;6;redemarrage le equipement fournir lien mpl ;5
+1108;36;coupur lien mpl ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;12
+1111;36;coupur lien mpl ;20;site nouveau operationnelle ;10
+1120;36;coupur lien mpl ;35;situation nominal ;10
+1101;36;coupur lien mpl ;4;perimetr ;9
+1105;36;coupur lien mpl ;10;clotur stabilite lien ;8
+1134;37;attente client ;10;clotur stabilite lien ;19
+1130;37;attente client ;2;cloture dossier ;7
+1137;37;attente client ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;7
+1136;37;attente client ;14;le incident etre resoudre le operateur ;5
+1148;37;attente client ;40;service stable equipement bien remonter supervision validon bon retour service procedon clotur ticket ;4
+1178;38;test ;42;test ;31
+1176;38;test ;39;nom ;19
+1160;38;test ;13;pb regler ;18
+1184;38;test ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;14
+1165;38;test ;20;site nouveau operationnelle ;13
+1198;39;routeur down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;60
+1218;39;routeur down ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;57
+1190;39;routeur down ;6;redemarrage le equipement fournir lien mpl ;38
+1185;39;routeur down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;33
+1197;39;routeur down ;14;le incident etre resoudre le operateur ;13
+1226;40;hcl uniha 10 250 0 43 ping is down at least 15 min ;6;redemarrage le equipement fournir lien mpl ;24
+1230;40;hcl uniha 10 250 0 43 ping is down at least 15 min ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;22
+1233;40;hcl uniha 10 250 0 43 ping is down at least 15 min ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;21
+1236;40;hcl uniha 10 250 0 43 ping is down at least 15 min ;20;site nouveau operationnelle ;17
+1229;40;hcl uniha 10 250 0 43 ping is down at least 15 min ;10;clotur stabilite lien ;13
+1277;41;station service injoignable ;46;validation supervision ;21
+1260;41;station service injoignable ;13;pb regler ;20
+1274;41;station service injoignable ;43;remplacement power injector ;16
+1263;41;station service injoignable ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;14
+1255;41;station service injoignable ;4;perimetr ;8
+1293;42;coupure intempestif ;20;site nouveau operationnelle ;24
+1288;42;coupure intempestif ;13;pb regler ;14
+1281;42;coupure intempestif ;4;perimetr ;11
+1290;42;coupure intempestif ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;10
+1306;42;coupure intempestif ;37;resolu ;8
+1322;43;nerac stackcore chagen nerac axcsbdx sup sw i chagen 44 136392 0 336714 ;12;problem supervision ;64
+1329;43;nerac stackcore chagen nerac axcsbdx sup sw i chagen 44 136392 0 336714 ;30;perte liaison vpn ;31
+1330;43;nerac stackcore chagen nerac axcsbdx sup sw i chagen 44 136392 0 336714 ;34;erreur supervision ;20
+1328;43;nerac stackcore chagen nerac axcsbdx sup sw i chagen 44 136392 0 336714 ;25;perte liaison operateur 30 minute ;12
+1316;43;nerac stackcore chagen nerac axcsbdx sup sw i chagen 44 136392 0 336714 ;3;coupure electrique ;9
+1340;44;ok ;8;defaut serveur nagios axian ;25
+1339;44;ok ;6;redemarrage le equipement fournir lien mpl ;16
+1349;44;ok ;20;site nouveau operationnelle ;16
+1360;44;ok ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;12
+1356;44;ok ;35;situation nominal ;11
+1377;45;ams monitoring alert node vef mdm vc ep axians ;20;site nouveau operationnelle ;17
+1388;45;ams monitoring alert node vef mdm vc ep axians ;35;situation nominal ;12
+1370;45;ams monitoring alert node vef mdm vc ep axians ;10;clotur stabilite lien ;11
+1397;45;ams monitoring alert node vef mdm vc ep axians ;48;site ok cloture ;11
+1363;45;ams monitoring alert node vef mdm vc ep axians ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;10
+1421;46;vitr sur sev1 c19726632 notification suivre ;38;ferme sfr ;110
+1399;46;vitr sur sev1 c19726632 notification suivre ;0;site ok ;39
+1423;46;vitr sur sev1 c19726632 notification suivre ;48;site ok cloture ;39
+1400;46;vitr sur sev1 c19726632 notification suivre ;2;cloture dossier ;27
+1420;46;vitr sur sev1 c19726632 notification suivre ;37;resolu ;15
+1438;47;modification simple ligne internet hs ;20;site nouveau operationnelle ;21
+1453;47;modification simple ligne internet hs ;37;resolu ;12
+1427;47;modification simple ligne internet hs ;4;perimetr ;11
+1433;47;modification simple ligne internet hs ;13;pb regler ;11
+1437;47;modification simple ligne internet hs ;18;lien operationnel ;11
+1501;48;ligne h ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;25
+1496;48;ligne h ;37;resolu ;24
+1480;48;ligne h ;20;site nouveau operationnelle ;22
+1468;48;ligne h ;4;perimetr ;21
+1475;48;ligne h ;13;pb regler ;20
+1521;49;pann 1 ap orly rungi ;43;remplacement power injector ;45
+1522;49;pann 1 ap orly rungi ;44;remplacemer switch ;30
+1518;49;pann 1 ap orly rungi ;36;erreur sup ;21
+1523;49;pann 1 ap orly rungi ;46;validation supervision ;15
+1510;49;pann 1 ap orly rungi ;13;pb regler ;5
+1525;50;down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;1
+1537;51;rt down contact injoignable ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;21
+1555;51;rt down contact injoignable ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;9
+1527;51;rt down contact injoignable ;3;coupure electrique ;8
+1526;51;rt down contact injoignable ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;7
+1530;51;rt down contact injoignable ;6;redemarrage le equipement fournir lien mpl ;6
+1567;52;probleme ucopia ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;46
+1565;52;probleme ucopia ;13;pb regler ;34
+1585;52;probleme ucopia ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;28
+1558;52;probleme ucopia ;4;perimetr ;20
+1561;52;probleme ucopia ;8;defaut serveur nagios axian ;17
+1594;53;ams monitoring alert node tav hir w10 711c ;20;site nouveau operationnelle ;7
+1606;53;ams monitoring alert node tav hir w10 711c ;48;site ok cloture ;7
+1589;53;ams monitoring alert node tav hir w10 711c ;6;redemarrage le equipement fournir lien mpl ;6
+1592;53;ams monitoring alert node tav hir w10 711c ;13;pb regler ;5
+1593;53;ams monitoring alert node tav hir w10 711c ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;5
+1619;54;maj controleur wifi aruba ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;42
+1638;54;maj controleur wifi aruba ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;34
+1617;54;maj controleur wifi aruba ;13;pb regler ;22
+1633;54;maj controleur wifi aruba ;43;remplacement power injector ;18
+1630;54;maj controleur wifi aruba ;36;erreur sup ;17
+1645;55;ams monitoring alert node rt fr carrier de condat chambon ;10;clotur stabilite lien ;7
+1651;55;ams monitoring alert node rt fr carrier de condat chambon ;22;service retablir suite redemarrage electrique routeur ;6
+1639;55;ams monitoring alert node rt fr carrier de condat chambon ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;5
+1648;55;ams monitoring alert node rt fr carrier de condat chambon ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;4
+1647;55;ams monitoring alert node rt fr carrier de condat chambon ;14;le incident etre resoudre le operateur ;3
+1681;56;switch repondre ping ;36;erreur sup ;11
+1684;56;switch repondre ping ;43;remplacement power injector ;11
+1673;56;switch repondre ping ;20;site nouveau operationnelle ;10
+1676;56;switch repondre ping ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;9
+1688;56;switch repondre ping ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;9
+1702;57;incider ucopia ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;38
+1699;57;incider ucopia ;13;pb regler ;36
+1692;57;incider ucopia ;4;perimetr ;27
+1703;57;incider ucopia ;20;site nouveau operationnelle ;27
+1727;57;incider ucopia ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;25
+1743;58;uniha chu grenobl n mi07 m 172 17 106 98 unit removed ;20;site nouveau operationnelle ;21
+1731;58;uniha chu grenobl n mi07 m 172 17 106 98 unit removed ;4;perimetr ;19
+1760;58;uniha chu grenobl n mi07 m 172 17 106 98 unit removed ;43;remplacement power injector ;18
+1765;58;uniha chu grenobl n mi07 m 172 17 106 98 unit removed ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;17
+1737;58;uniha chu grenobl n mi07 m 172 17 106 98 unit removed ;13;pb regler ;16
+1780;59;modification simple ;20;site nouveau operationnelle ;9
+1768;59;modification simple ;4;perimetr ;8
+1769;59;modification simple ;6;redemarrage le equipement fournir lien mpl ;5
+1771;59;modification simple ;8;defaut serveur nagios axian ;4
+1781;59;modification simple ;23;client ;4
+1820;60;lactalis informatique sur st just sur sev3 sur c24835072 notification de ouverture de incident service sfr business ;38;ferme sfr ;198
+1824;60;lactalis informatique sur st just sur sev3 sur c24835072 notification de ouverture de incident service sfr business ;48;site ok cloture ;28
+1807;60;lactalis informatique sur st just sur sev3 sur c24835072 notification de ouverture de incident service sfr business ;14;le incident etre resoudre le operateur ;17
+1815;60;lactalis informatique sur st just sur sev3 sur c24835072 notification de ouverture de incident service sfr business ;32;notification clotur ;17
+1801;60;lactalis informatique sur st just sur sev3 sur c24835072 notification de ouverture de incident service sfr business ;4;perimetr ;15
+1850;61;alarme supervision pc2198 renage ethylotest ;34;erreur supervision ;42
+1839;61;alarme supervision pc2198 renage ethylotest ;20;site nouveau operationnelle ;28
+1828;61;alarme supervision pc2198 renage ethylotest ;4;perimetr ;13
+1842;61;alarme supervision pc2198 renage ethylotest ;23;client ;13
+1834;61;alarme supervision pc2198 renage ethylotest ;13;pb regler ;12
+1879;62;pann reseau ;20;site nouveau operationnelle ;28
+1877;62;pann reseau ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;22
+1899;62;pann reseau ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;15
+1876;62;pann reseau ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;13
+1902;62;pann reseau ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;12
+1917;63;nok att client am monitoring alert ;20;site nouveau operationnelle ;31
+1939;63;nok att client am monitoring alert ;48;site ok cloture ;23
+1910;63;nok att client am monitoring alert ;9;liaison rester operationnel suite de un test connectiviter dossier clore ;21
+1937;63;nok att client am monitoring alert ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;16
+1931;63;nok att client am monitoring alert ;35;situation nominal ;15
+1952;64;problem service alert opc nan check tunnel path is critical ;13;pb regler ;33
+1957;64;problem service alert opc nan check tunnel path is critical ;20;site nouveau operationnelle ;28
+1971;64;problem service alert opc nan check tunnel path is critical ;39;nom ;25
+1961;64;problem service alert opc nan check tunnel path is critical ;24;doublon ;24
+1967;64;problem service alert opc nan check tunnel path is critical ;35;situation nominal ;22
+1996;65;site couper ;22;service retablir suite redemarrage electrique routeur ;47
+1987;65;site couper ;10;clotur stabilite lien ;15
+1994;65;site couper ;20;site nouveau operationnelle ;15
+2014;65;site couper ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;14
+1983;65;site couper ;6;redemarrage le equipement fournir lien mpl ;13
+2030;66;ouverture port ;38;ferme sfr ;9
+2027;66;ouverture port ;23;client ;5
+2032;66;ouverture port ;48;site ok cloture ;3
+2033;66;ouverture port ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;3
+2019;66;ouverture port ;0;site ok ;1
+2046;67;problem service alert fre mx240 w10 234j erreur system niveau alerte is warning ;20;site nouveau operationnelle ;19
+2056;67;problem service alert fre mx240 w10 234j erreur system niveau alerte is warning ;35;situation nominal ;17
+2038;67;problem service alert fre mx240 w10 234j erreur system niveau alerte is warning ;6;redemarrage le equipement fournir lien mpl ;12
+2036;67;problem service alert fre mx240 w10 234j erreur system niveau alerte is warning ;3;coupure electrique ;9
+2037;67;problem service alert fre mx240 w10 234j erreur system niveau alerte is warning ;4;perimetr ;8
+2074;68;lenteur rd ;13;pb regler ;53
+2077;68;lenteur rd ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;43
+2080;68;lenteur rd ;20;site nouveau operationnelle ;38
+2094;68;lenteur rd ;39;nom ;27
+2067;68;lenteur rd ;4;perimetr ;25
+2124;69;demande de ouverture de incident ;38;ferme sfr ;149
+2107;69;demande de ouverture de incident ;14;le incident etre resoudre le operateur ;17
+2104;69;demande de ouverture de incident ;4;perimetr ;13
+2126;69;demande de ouverture de incident ;48;site ok cloture ;8
+2123;69;demande de ouverture de incident ;37;resolu ;7
+2145;70;uniha chu grenobl 6509 ltp 192 168 111 253 down at least 5 min ;20;site nouveau operationnelle ;49
+2133;70;uniha chu grenobl 6509 ltp 192 168 111 253 down at least 5 min ;6;redemarrage le equipement fournir lien mpl ;45
+2159;70;uniha chu grenobl 6509 ltp 192 168 111 253 down at least 5 min ;37;resolu ;37
+2157;70;uniha chu grenobl 6509 ltp 192 168 111 253 down at least 5 min ;35;situation nominal ;31
+2138;70;uniha chu grenobl 6509 ltp 192 168 111 253 down at least 5 min ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;22
+2191;71;connexion to pc2018 amberieu scan ping failed profil pc2018 amberieu scan ;37;resolu ;30
+2188;71;connexion to pc2018 amberieu scan ping failed profil pc2018 amberieu scan ;34;erreur supervision ;23
+2179;71;connexion to pc2018 amberieu scan ping failed profil pc2018 amberieu scan ;20;site nouveau operationnelle ;8
+2176;71;connexion to pc2018 amberieu scan ping failed profil pc2018 amberieu scan ;13;pb regler ;7
+2180;71;connexion to pc2018 amberieu scan ping failed profil pc2018 amberieu scan ;21;lien operationnel connexion ok ;7
+2198;72;ams monitoring alert node rt fr mouans sartoux ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;26
+2207;72;ams monitoring alert node rt fr mouans sartoux ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;14
+2211;72;ams monitoring alert node rt fr mouans sartoux ;22;service retablir suite redemarrage electrique routeur ;12
+2204;72;ams monitoring alert node rt fr mouans sartoux ;10;clotur stabilite lien ;10
+2215;72;ams monitoring alert node rt fr mouans sartoux ;27;2 equipement redemarrer electriquement system up time 0 day 8 hr 18 min 34 sec ;9
+2235;73;back up hs ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;11
+2236;73;back up hs ;18;lien operationnel ;7
+2245;73;back up hs ;31;ticket doublon ;7
+2246;73;back up hs ;35;situation nominal ;7
+2247;73;back up hs ;37;resolu ;7
+2263;74;am alert 10 189 0 206 configuration pb s sw alcatel critical synchrocmm is notsynchronized state ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;16
+2287;74;am alert 10 189 0 206 configuration pb s sw alcatel critical synchrocmm is notsynchronized state ;48;site ok cloture ;12
+2269;74;am alert 10 189 0 206 configuration pb s sw alcatel critical synchrocmm is notsynchronized state ;20;site nouveau operationnelle ;11
+2259;74;am alert 10 189 0 206 configuration pb s sw alcatel critical synchrocmm is notsynchronized state ;6;redemarrage le equipement fournir lien mpl ;10
+2270;74;am alert 10 189 0 206 configuration pb s sw alcatel critical synchrocmm is notsynchronized state ;21;lien operationnel connexion ok ;9
+2310;75;switch ko ;43;remplacement power injector ;28
+2307;75;switch ko ;36;erreur sup ;21
+2312;75;switch ko ;46;validation supervision ;17
+2303;75;switch ko ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;10
+2313;75;switch ko ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;9
+2340;76;frtouswtl01r0pn01 hardware statu warning ;35;situation nominal ;39
+2317;76;frtouswtl01r0pn01 hardware statu warning ;4;perimetr ;25
+2342;76;frtouswtl01r0pn01 hardware statu warning ;37;resolu ;21
+2329;76;frtouswtl01r0pn01 hardware statu warning ;20;site nouveau operationnelle ;19
+2333;76;frtouswtl01r0pn01 hardware statu warning ;24;doublon ;15
+2360;77;rt et sw down ;22;service retablir suite redemarrage electrique routeur ;13
+2357;77;rt et sw down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;9
+2374;77;rt et sw down ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;8
+2351;77;rt et sw down ;6;redemarrage le equipement fournir lien mpl ;7
+2356;77;rt et sw down ;14;le incident etre resoudre le operateur ;7
+2392;78;perte reseau ;20;site nouveau operationnelle ;14
+2390;78;perte reseau ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;12
+2387;78;perte reseau ;13;pb regler ;9
+2409;78;perte reseau ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;8
+2396;78;perte reseau ;24;doublon ;7
+2412;79;ap ;43;remplacement power injector ;1
+2418;80;problem ap ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;5
+2429;80;problem ap ;46;validation supervision ;5
+2425;80;problem ap ;37;resolu ;4
+2427;80;problem ap ;43;remplacement power injector ;4
+2414;80;problem ap ;8;defaut serveur nagios axian ;3
+2435;81;ap 0i sr06 1 c24 down ;6;redemarrage le equipement fournir lien mpl ;13
+2440;81;ap 0i sr06 1 c24 down ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;11
+2445;81;ap 0i sr06 1 c24 down ;20;site nouveau operationnelle ;11
+2458;81;ap 0i sr06 1 c24 down ;35;situation nominal ;9
+2464;81;ap 0i sr06 1 c24 down ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;9
+2501;82;port defaillir stack eta1 ns17106 ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;36
+2471;82;port defaillir stack eta1 ns17106 ;4;perimetr ;19
+2478;82;port defaillir stack eta1 ns17106 ;13;pb regler ;18
+2485;82;port defaillir stack eta1 ns17106 ;23;client ;14
+2482;82;port defaillir stack eta1 ns17106 ;20;site nouveau operationnelle ;13
+2507;83;hcl uniha jc4ds85653 chu lyon fr trap syslog cisco 3750x stack link chang received ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;15
+2517;83;hcl uniha jc4ds85653 chu lyon fr trap syslog cisco 3750x stack link chang received ;25;perte liaison operateur 30 minute ;10
+2512;83;hcl uniha jc4ds85653 chu lyon fr trap syslog cisco 3750x stack link chang received ;20;site nouveau operationnelle ;8
+2502;83;hcl uniha jc4ds85653 chu lyon fr trap syslog cisco 3750x stack link chang received ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;7
+2508;83;hcl uniha jc4ds85653 chu lyon fr trap syslog cisco 3750x stack link chang received ;13;pb regler ;7
+2531;84;frjanapwsdr001 host down critical ;5;borne up ;46
+2546;84;frjanapwsdr001 host down critical ;35;situation nominal ;33
+2547;84;frjanapwsdr001 host down critical ;36;erreur sup ;30
+2551;84;frjanapwsdr001 host down critical ;44;remplacemer switch ;24
+2550;84;frjanapwsdr001 host down critical ;43;remplacement power injector ;12
+2578;85;modem station hs ;46;validation supervision ;86
+2575;85;modem station hs ;43;remplacement power injector ;35
+2568;85;modem station hs ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;17
+2571;85;modem station hs ;36;erreur sup ;15
+2580;85;modem station hs ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;11
+2616;86;pole emploi remplacement switch hp2626 gx0445 ape pauillac doumer ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;56
+2611;86;pole emploi remplacement switch hp2626 gx0445 ape pauillac doumer ;43;remplacement power injector ;43
+2591;86;pole emploi remplacement switch hp2626 gx0445 ape pauillac doumer ;13;pb regler ;40
+2595;86;pole emploi remplacement switch hp2626 gx0445 ape pauillac doumer ;20;site nouveau operationnelle ;27
+2606;86;pole emploi remplacement switch hp2626 gx0445 ape pauillac doumer ;36;erreur sup ;27
+2650;87;faiblesse signal wifi ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;37
+2624;87;faiblesse signal wifi ;13;pb regler ;36
+2639;87;faiblesse signal wifi ;36;erreur sup ;29
+2627;87;faiblesse signal wifi ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;26
+2645;87;faiblesse signal wifi ;43;remplacement power injector ;24
+2653;88;cpu pb  critical cpu 1 usage 5 min avg is 91 00 pourcent ;4;perimetr ;13
+2665;88;cpu pb  critical cpu 1 usage 5 min avg is 91 00 pourcent ;20;site nouveau operationnelle ;11
+2677;88;cpu pb  critical cpu 1 usage 5 min avg is 91 00 pourcent ;37;resolu ;10
+2676;88;cpu pb  critical cpu 1 usage 5 min avg is 91 00 pourcent ;36;erreur sup ;9
+2675;88;cpu pb  critical cpu 1 usage 5 min avg is 91 00 pourcent ;35;situation nominal ;8
+2722;89;ssid oauser non fonctionnel ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;64
+2698;89;ssid oauser non fonctionnel ;13;pb regler ;61
+2700;89;ssid oauser non fonctionnel ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;57
+2690;89;ssid oauser non fonctionnel ;4;perimetr ;42
+2717;89;ssid oauser non fonctionnel ;43;remplacement power injector ;34
+2752;90;coupure mpl ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;10
+2733;90;coupure mpl ;14;le incident etre resoudre le operateur ;6
+2737;90;coupure mpl ;20;site nouveau operationnelle ;6
+2731;90;coupure mpl ;10;clotur stabilite lien ;5
+2727;90;coupure mpl ;6;redemarrage le equipement fournir lien mpl ;4
+2755;91;configuration snmp switch cisco ;4;perimetr ;2
+2758;91;configuration snmp switch cisco ;20;site nouveau operationnelle ;2
+2754;91;configuration snmp switch cisco ;2;cloture dossier ;1
+2756;91;configuration snmp switch cisco ;13;pb regler ;1
+2757;91;configuration snmp switch cisco ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;1
+2785;92;lien backup hs ;36;erreur sup ;9
+2791;92;lien backup hs ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;8
+2792;92;lien backup hs ;46;validation supervision ;7
+2776;92;lien backup hs ;21;lien operationnel connexion ok ;6
+2767;92;lien backup hs ;6;redemarrage le equipement fournir lien mpl ;5
+2800;93;hcl uniha hcrc100 s1 chu lyon fr snmp etat alimentation is down at least 15 min ;6;redemarrage le equipement fournir lien mpl ;73
+2808;93;hcl uniha hcrc100 s1 chu lyon fr snmp etat alimentation is down at least 15 min ;19;bug cosmetique cisco le alimentation fonctionne normalement sw pid serial statu sy pwr poe pwr watt 1a pwr c1 715wac dcb1902g03k ok good good 715 1b pwr c1 715wac lit19351dr1 ok good good 715 2a pwr c1 715wac dcb1910g14v ok good good 715 2b pwr c1 715wac dcb1910g12 t no response good good 715 ;44
+2807;93;hcl uniha hcrc100 s1 chu lyon fr snmp etat alimentation is down at least 15 min ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;31
+2809;93;hcl uniha hcrc100 s1 chu lyon fr snmp etat alimentation is down at least 15 min ;20;site nouveau operationnelle ;29
+2813;93;hcl uniha hcrc100 s1 chu lyon fr snmp etat alimentation is down at least 15 min ;24;doublon ;19
+2839;94;bagot le ap ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;19
+2841;94;bagot le ap ;36;erreur sup ;11
+2845;94;bagot le ap ;46;validation supervision ;10
+2835;94;bagot le ap ;13;pb regler ;9
+2843;94;bagot le ap ;43;remplacement power injector ;9
+2882;95;suspicion incider generique ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;37
+2857;95;suspicion incider generique ;13;pb regler ;26
+2876;95;suspicion incider generique ;42;test ;23
+2860;95;suspicion incider generique ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;19
+2861;95;suspicion incider generique ;20;site nouveau operationnelle ;15
+2896;96;st bonnet sur sev1 c19853980 notification suivre ;38;ferme sfr ;19
+2883;96;st bonnet sur sev1 c19853980 notification suivre ;0;site ok ;5
+2884;96;st bonnet sur sev1 c19853980 notification suivre ;2;cloture dossier ;4
+2888;96;st bonnet sur sev1 c19853980 notification suivre ;17;cloture ;3
+2893;96;st bonnet sur sev1 c19853980 notification suivre ;32;notification clotur ;3
+2904;97;toip cisco problem call manager uccx ;13;pb regler ;32
+2926;97;toip cisco problem call manager uccx ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;29
+2907;97;toip cisco problem call manager uccx ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;14
+2908;97;toip cisco problem call manager uccx ;20;site nouveau operationnelle ;14
+2903;97;toip cisco problem call manager uccx ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;10
+2938;98;ri1 dc3 interface usage warning ;20;site nouveau operationnelle ;9
+2944;98;ri1 dc3 interface usage warning ;35;situation nominal ;6
+2948;98;ri1 dc3 interface usage warning ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;6
+2934;98;ri1 dc3 interface usage warning ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;5
+2929;98;ri1 dc3 interface usage warning ;3;coupure electrique ;4
+2959;99;ouverture dossier mail formate ;13;pb regler ;16
+2981;99;ouverture dossier mail formate ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;15
+2962;99;ouverture dossier mail formate ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;12
+2953;99;ouverture dossier mail formate ;4;perimetr ;8
+2963;99;ouverture dossier mail formate ;20;site nouveau operationnelle ;8
+2993;100;perte connexion reseau ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;11
+2995;100;perte connexion reseau ;20;site nouveau operationnelle ;11
+3010;100;perte connexion reseau ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;10
+2987;100;perte connexion reseau ;9;liaison rester operationnel suite de un test connectiviter dossier clore ;9
+2990;100;perte connexion reseau ;13;pb regler ;9
+3024;101;luescswtl03r01n01 memory usage critical ;20;site nouveau operationnelle ;14
+3028;101;luescswtl03r01n01 memory usage critical ;24;doublon ;14
+3014;101;luescswtl03r01n01 memory usage critical ;0;site ok ;12
+3022;101;luescswtl03r01n01 memory usage critical ;13;pb regler ;11
+3033;101;luescswtl03r01n01 memory usage critical ;35;situation nominal ;10
+3045;102;problem business process infra lan zone port 5 mole d escale critical ;4;perimetr ;16
+3050;102;problem business process infra lan zone port 5 mole d escale critical ;13;pb regler ;15
+3076;102;problem business process infra lan zone port 5 mole d escale critical ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;15
+3069;102;problem business process infra lan zone port 5 mole d escale critical ;39;nom ;11
+3052;102;problem business process infra lan zone port 5 mole d escale critical ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;10
+3077;103;service ;9;liaison rester operationnel suite de un test connectiviter dossier clore ;1
+3078;103;service ;31;ticket doublon ;1
+3079;103;service ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;1
+3097;104;alarm supervision ;34;erreur supervision ;23
+3099;104;alarm supervision ;37;resolu ;13
+3083;104;alarm supervision ;6;redemarrage le equipement fournir lien mpl ;9
+3091;104;alarm supervision ;21;lien operationnel connexion ok ;7
+3087;104;alarm supervision ;13;pb regler ;6
+3120;105;fortinet down vpn soho ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;24
+3123;105;fortinet down vpn soho ;20;site nouveau operationnelle ;24
+3113;105;fortinet down vpn soho ;6;redemarrage le equipement fournir lien mpl ;15
+3109;105;fortinet down vpn soho ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;12
+3135;105;fortinet down vpn soho ;35;situation nominal ;12
+3157;106;network alert lien mpl down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;29
+3175;106;network alert lien mpl down ;48;site ok cloture ;28
+3159;106;network alert lien mpl down ;18;lien operationnel ;25
+3146;106;network alert lien mpl down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;15
+3161;106;network alert lien mpl down ;21;lien operationnel connexion ok ;14
+3178;107;hcl uniha di 126650 nx93 1 chu lyon fr interface 436211200 dir2 sur fex121 93346 is down at least 15 min ;6;redemarrage le equipement fournir lien mpl ;5
+3183;107;hcl uniha di 126650 nx93 1 chu lyon fr interface 436211200 dir2 sur fex121 93346 is down at least 15 min ;20;site nouveau operationnelle ;5
+3186;107;hcl uniha di 126650 nx93 1 chu lyon fr interface 436211200 dir2 sur fex121 93346 is down at least 15 min ;31;ticket doublon ;3
+3177;107;hcl uniha di 126650 nx93 1 chu lyon fr interface 436211200 dir2 sur fex121 93346 is down at least 15 min ;4;perimetr ;2
+3180;107;hcl uniha di 126650 nx93 1 chu lyon fr interface 436211200 dir2 sur fex121 93346 is down at least 15 min ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;2
+3200;108;network alert switch memory usage critical ;5;borne up ;18
+3209;108;network alert switch memory usage critical ;20;site nouveau operationnelle ;12
+3227;108;network alert switch memory usage critical ;48;site ok cloture ;12
+3199;108;network alert switch memory usage critical ;4;perimetr ;9
+3219;108;network alert switch memory usage critical ;35;situation nominal ;9
+3232;109;problem host alert sc san niv2 is down ;6;redemarrage le equipement fournir lien mpl ;43
+3253;109;problem host alert sc san niv2 is down ;35;situation nominal ;35
+3246;109;problem host alert sc san niv2 is down ;24;doublon ;30
+3239;109;problem host alert sc san niv2 is down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;26
+3249;109;problem host alert sc san niv2 is down ;27;2 equipement redemarrer electriquement system up time 0 day 8 hr 18 min 34 sec ;26
+3265;110;hcl uniha sp blarc52 cr chu lyon fr snmp cisco charge cpu 5 min is down at least 15 min ;4;perimetr ;8
+3275;110;hcl uniha sp blarc52 cr chu lyon fr snmp cisco charge cpu 5 min is down at least 15 min ;20;site nouveau operationnelle ;8
+3278;110;hcl uniha sp blarc52 cr chu lyon fr snmp cisco charge cpu 5 min is down at least 15 min ;24;doublon ;8
+3270;110;hcl uniha sp blarc52 cr chu lyon fr snmp cisco charge cpu 5 min is down at least 15 min ;13;pb regler ;6
+3285;110;hcl uniha sp blarc52 cr chu lyon fr snmp cisco charge cpu 5 min is down at least 15 min ;37;resolu ;6
+3307;111;sblfrcrb01 root cpu failure ;20;site nouveau operationnelle ;15
+3300;111;sblfrcrb01 root cpu failure ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;10
+3294;111;sblfrcrb01 root cpu failure ;4;perimetr ;9
+3310;111;sblfrcrb01 root cpu failure ;23;client ;8
+3327;111;sblfrcrb01 root cpu failure ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;8
+3338;112;pann total ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;14
+3341;112;pann total ;20;site nouveau operationnelle ;12
+3357;112;pann total ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;12
+3331;112;pann total ;6;redemarrage le equipement fournir lien mpl ;10
+3328;112;pann total ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;8
+3362;113;ams monitoring alert node fr2514afw01 ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;158
+3376;113;ams monitoring alert node fr2514afw01 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;157
+3380;113;ams monitoring alert node fr2514afw01 ;20;site nouveau operationnelle ;144
+3389;113;ams monitoring alert node fr2514afw01 ;29;equipement joignable cloturon ;116
+3371;113;ams monitoring alert node fr2514afw01 ;10;clotur stabilite lien ;109
+3433;114;ok obs ams monitoring alert ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;16
+3418;114;ok obs ams monitoring alert ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;10
+3420;114;ok obs ams monitoring alert ;20;site nouveau operationnelle ;10
+3409;114;ok obs ams monitoring alert ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;6
+3434;114;ok obs ams monitoring alert ;48;site ok cloture ;6
+3440;115;groupe pichet frma1 interface gigabitethernet1 0 10  net frma111ap04 frma111sr01 down 24x7x4 ;6;redemarrage le equipement fournir lien mpl ;29
+3462;115;groupe pichet frma1 interface gigabitethernet1 0 10  net frma111ap04 frma111sr01 down 24x7x4 ;35;situation nominal ;22
+3450;115;groupe pichet frma1 interface gigabitethernet1 0 10  net frma111ap04 frma111sr01 down 24x7x4 ;20;site nouveau operationnelle ;19
+3444;115;groupe pichet frma1 interface gigabitethernet1 0 10  net frma111ap04 frma111sr01 down 24x7x4 ;10;clotur stabilite lien ;13
+3445;115;groupe pichet frma1 interface gigabitethernet1 0 10  net frma111ap04 frma111sr01 down 24x7x4 ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;12
+3478;116;perte service ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;5
+3490;116;perte service ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;5
+3484;116;perte service ;24;doublon ;4
+3489;116;perte service ;37;resolu ;4
+3475;116;perte service ;4;perimetr ;3
+3520;117;centreon alert lien mpl high latency ;48;site ok cloture ;58
+3502;117;centreon alert lien mpl high latency ;18;lien operationnel ;37
+3504;117;centreon alert lien mpl high latency ;21;lien operationnel connexion ok ;17
+3503;117;centreon alert lien mpl high latency ;20;site nouveau operationnelle ;10
+3496;117;centreon alert lien mpl high latency ;6;redemarrage le equipement fournir lien mpl ;9
+3535;118;lenteur reseau ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;38
+3532;118;lenteur reseau ;13;pb regler ;26
+3557;118;lenteur reseau ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;19
+3536;118;lenteur reseau ;20;site nouveau operationnelle ;18
+3526;118;lenteur reseau ;4;perimetr ;11
+3569;119;diag cours ;13;pb regler ;29
+3562;119;diag cours ;4;perimetr ;28
+3598;119;diag cours ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;28
+3577;119;diag cours ;23;client ;25
+3574;119;diag cours ;20;site nouveau operationnelle ;24
+3615;120;lactalis informatique teche 2 sev1 c21074670 notification cl ture de incident service sfr business ;38;ferme sfr ;72
+3611;120;lactalis informatique teche 2 sev1 c21074670 notification cl ture de incident service sfr business ;32;notification clotur ;17
+3599;120;lactalis informatique teche 2 sev1 c21074670 notification cl ture de incident service sfr business ;0;site ok ;7
+3617;120;lactalis informatique teche 2 sev1 c21074670 notification cl ture de incident service sfr business ;48;site ok cloture ;7
+3606;120;lactalis informatique teche 2 sev1 c21074670 notification cl ture de incident service sfr business ;23;client ;6
+3624;121;client injoignable ;10;clotur stabilite lien ;18
+3642;121;client injoignable ;37;resolu ;15
+3627;121;client injoignable ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;10
+3621;121;client injoignable ;6;redemarrage le equipement fournir lien mpl ;9
+3633;121;client injoignable ;23;client ;9
+3668;122;perte de antenne wifi ;43;remplacement power injector ;26
+3669;122;perte de antenne wifi ;44;remplacemer switch ;12
+3659;122;perte de antenne wifi ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;8
+3666;122;perte de antenne wifi ;36;erreur sup ;6
+3658;122;perte de antenne wifi ;13;pb regler ;4
+3681;123;cloture soir ok ams monitoring alert ;10;clotur stabilite lien ;28
+3689;123;cloture soir ok ams monitoring alert ;21;lien operationnel connexion ok ;24
+3688;123;cloture soir ok ams monitoring alert ;20;site nouveau operationnelle ;20
+3677;123;cloture soir ok ams monitoring alert ;6;redemarrage le equipement fournir lien mpl ;18
+3702;123;cloture soir ok ams monitoring alert ;37;resolu ;18
+3721;124;nom ;13;pb regler ;71
+3749;124;nom ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;64
+3741;124;nom ;39;nom ;56
+3724;124;nom ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;52
+3739;124;nom ;37;resolu ;47
+3754;125;observation ;10;clotur stabilite lien ;40
+3757;125;observation ;18;lien operationnel ;12
+3756;125;observation ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;9
+3750;125;observation ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;6
+3751;125;observation ;2;cloture dossier ;5
+3787;126;172 20 0 11 os6450 p48 r2 chdax 43 71175  1 039828 ;34;erreur supervision ;68
+3772;126;172 20 0 11 os6450 p48 r2 chdax 43 71175  1 039828 ;0;site ok ;38
+3776;126;172 20 0 11 os6450 p48 r2 chdax 43 71175  1 039828 ;8;defaut serveur nagios axian ;29
+3788;126;172 20 0 11 os6450 p48 r2 chdax 43 71175  1 039828 ;36;erreur sup ;17
+3783;126;172 20 0 11 os6450 p48 r2 chdax 43 71175  1 039828 ;21;lien operationnel connexion ok ;13
+3807;127;contact injoignable ;20;site nouveau operationnelle ;15
+3800;127;contact injoignable ;10;clotur stabilite lien ;13
+3804;127;contact injoignable ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;10
+3817;127;contact injoignable ;35;situation nominal ;10
+3802;127;contact injoignable ;13;pb regler ;8
+3833;128;routeur down client injoignable ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;20
+3846;128;routeur down client injoignable ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;12
+3827;128;routeur down client injoignable ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;10
+3836;128;routeur down client injoignable ;22;service retablir suite redemarrage electrique routeur ;7
+3828;128;routeur down client injoignable ;3;coupure electrique ;5
+3854;129;ams monitoring alert node cr eb2 1 ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;19
+3847;129;ams monitoring alert node cr eb2 1 ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;8
+3857;129;ams monitoring alert node cr eb2 1 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;8
+3873;129;ams monitoring alert node cr eb2 1 ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;6
+3848;129;ams monitoring alert node cr eb2 1 ;3;coupure electrique ;5
+3880;130;h5130stack ifsi chagen st esprit axcsbdx sup h5130stack ifsi chagen 44 217384 0 635259 ;12;problem supervision ;300
+3884;130;h5130stack ifsi chagen st esprit axcsbdx sup h5130stack ifsi chagen 44 217384 0 635259 ;30;perte liaison vpn ;206
+3886;130;h5130stack ifsi chagen st esprit axcsbdx sup h5130stack ifsi chagen 44 217384 0 635259 ;34;erreur supervision ;64
+3888;130;h5130stack ifsi chagen st esprit axcsbdx sup h5130stack ifsi chagen 44 217384 0 635259 ;36;erreur sup ;18
+3878;130;h5130stack ifsi chagen st esprit axcsbdx sup h5130stack ifsi chagen 44 217384 0 635259 ;7;intervention realiser ;16
+3919;131;mpls dysfonctionnemer ;37;resolu ;19
+3906;131;mpls dysfonctionnemer ;20;site nouveau operationnelle ;16
+3894;131;mpls dysfonctionnemer ;4;perimetr ;15
+3908;131;mpls dysfonctionnemer ;23;client ;15
+3916;131;mpls dysfonctionnemer ;34;erreur supervision ;15
+3931;132;switch down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;9
+3949;132;switch down ;43;remplacement power injector ;5
+3940;132;switch down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;4
+3947;132;switch down ;36;erreur sup ;4
+3932;132;switch down ;4;perimetr ;3
+3981;133;palo ifsiagen axcsbdx sup fw ifsi ifsiagen 44 20806 0 633678 ;37;resolu ;21
+3962;133;palo ifsiagen axcsbdx sup fw ifsi ifsiagen 44 20806 0 633678 ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;18
+3987;133;palo ifsiagen axcsbdx sup fw ifsi ifsiagen 44 20806 0 633678 ;46;validation supervision ;17
+3967;133;palo ifsiagen axcsbdx sup fw ifsi ifsiagen 44 20806 0 633678 ;20;site nouveau operationnelle ;16
+3982;133;palo ifsiagen axcsbdx sup fw ifsi ifsiagen 44 20806 0 633678 ;39;nom ;15
+4000;134;fortinet down ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;14
+3990;134;fortinet down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;12
+3995;134;fortinet down ;6;redemarrage le equipement fournir lien mpl ;11
+4013;134;fortinet down ;35;situation nominal ;9
+4020;134;fortinet down ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;9
+4037;135;perte connexion ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;25
+4040;135;perte connexion ;20;site nouveau operationnelle ;19
+4058;135;perte connexion ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;18
+4029;135;perte connexion ;6;redemarrage le equipement fournir lien mpl ;16
+4042;135;perte connexion ;22;service retablir suite redemarrage electrique routeur ;16
+4062;136;interface down switch cisco ;2;cloture dossier ;1
+4063;136;interface down switch cisco ;4;perimetr ;1
+4064;136;interface down switch cisco ;6;redemarrage le equipement fournir lien mpl ;1
+4085;137;rc3 pop1 interface statu critical ;35;situation nominal ;13
+4076;137;rc3 pop1 interface statu critical ;20;site nouveau operationnelle ;7
+4067;137;rc3 pop1 interface statu critical ;4;perimetr ;6
+4080;137;rc3 pop1 interface statu critical ;25;perte liaison operateur 30 minute ;6
+4090;137;rc3 pop1 interface statu critical ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;6
+4111;138;remplacemer switch ;43;remplacement power injector ;24
+4114;138;remplacemer switch ;46;validation supervision ;24
+4107;138;remplacemer switch ;36;erreur sup ;21
+4104;138;remplacemer switch ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;18
+4112;138;remplacemer switch ;44;remplacemer switch ;12
+4144;139;synchronise modem ;43;remplacement power injector ;74
+4148;139;synchronise modem ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;53
+4141;139;synchronise modem ;36;erreur sup ;41
+4125;139;synchronise modem ;13;pb regler ;32
+4134;139;synchronise modem ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;31
+4170;140;demande de information ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;15
+4154;140;demande de information ;13;pb regler ;6
+4156;140;demande de information ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;6
+4165;140;demande de information ;39;nom ;5
+4158;140;demande de information ;23;client ;3
+4184;141;ams monitoring alert node rt fr boulouri ;22;service retablir suite redemarrage electrique routeur ;33
+4171;141;ams monitoring alert node rt fr boulouri ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;32
+4176;141;ams monitoring alert node rt fr boulouri ;10;clotur stabilite lien ;28
+4180;141;ams monitoring alert node rt fr boulouri ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;17
+4187;141;ams monitoring alert node rt fr boulouri ;25;perte liaison operateur 30 minute ;17
+4204;142;ticket suivre supervision matin ;13;pb regler ;6
+4205;142;ticket suivre supervision matin ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;4
+4209;142;ticket suivre supervision matin ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;3
+4210;142;ticket suivre supervision matin ;33;demande traiter ;3
+4211;142;ticket suivre supervision matin ;37;resolu ;3
+4232;143;network alert mpls down ;22;service retablir suite redemarrage electrique routeur ;55
+4235;143;network alert mpls down ;25;perte liaison operateur 30 minute ;26
+4240;143;network alert mpls down ;35;situation nominal ;19
+4222;143;network alert mpls down ;6;redemarrage le equipement fournir lien mpl ;16
+4245;143;network alert mpls down ;41;reponse ;14
+4259;144;problem connectivity lan is warning host tech70 ;20;site nouveau operationnelle ;9
+4252;144;problem connectivity lan is warning host tech70 ;3;coupure electrique ;5
+4253;144;problem connectivity lan is warning host tech70 ;4;perimetr ;4
+4267;144;problem connectivity lan is warning host tech70 ;35;situation nominal ;4
+4254;144;problem connectivity lan is warning host tech70 ;6;redemarrage le equipement fournir lien mpl ;3
+4289;145;routeur injoignable ;22;service retablir suite redemarrage electrique routeur ;166
+4284;145;routeur injoignable ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;44
+4306;145;routeur injoignable ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;43
+4277;145;routeur injoignable ;6;redemarrage le equipement fournir lien mpl ;33
+4274;145;routeur injoignable ;3;coupure electrique ;28
+4314;146;acces internet ;10;clotur stabilite lien ;3
+4315;146;acces internet ;13;pb regler ;3
+4317;146;acces internet ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;3
+4311;146;acces internet ;4;perimetr ;2
+4316;146;acces internet ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;2
+4344;147;ap hs ;46;validation supervision ;81
+4341;147;ap hs ;43;remplacement power injector ;63
+4342;147;ap hs ;44;remplacemer switch ;52
+4339;147;ap hs ;36;erreur sup ;38
+4330;147;ap hs ;7;intervention realiser ;8
+4372;148;incident operateur internet local hs fr2252a ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;13
+4358;148;incident operateur internet local hs fr2252a ;20;site nouveau operationnelle ;11
+4356;148;incident operateur internet local hs fr2252a ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;8
+4366;148;incident operateur internet local hs fr2252a ;37;resolu ;8
+4348;148;incident operateur internet local hs fr2252a ;4;perimetr ;7
+4383;149;en observation am monitoring alert ;9;liaison rester operationnel suite de un test connectiviter dossier clore ;26
+4389;149;en observation am monitoring alert ;20;site nouveau operationnelle ;18
+4384;149;en observation am monitoring alert ;10;clotur stabilite lien ;14
+4387;149;en observation am monitoring alert ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;12
+4402;149;en observation am monitoring alert ;37;resolu ;12
+4420;150;probleme reseau ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;36
+4441;150;probleme reseau ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;17
+4413;150;probleme reseau ;8;defaut serveur nagios axian ;16
+4417;150;probleme reseau ;13;pb regler ;15
+4437;150;probleme reseau ;43;remplacement power injector ;13
+4447;151;borne wifi site haguenau fr wap fr ha ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;23
+4453;151;borne wifi site haguenau fr wap fr ha ;22;service retablir suite redemarrage electrique routeur ;11
+4444;151;borne wifi site haguenau fr wap fr ha ;6;redemarrage le equipement fournir lien mpl ;8
+4445;151;borne wifi site haguenau fr wap fr ha ;9;liaison rester operationnel suite de un test connectiviter dossier clore ;7
+4452;151;borne wifi site haguenau fr wap fr ha ;20;site nouveau operationnelle ;5
+4474;152;os6450 p48 mlx ssol chdax axcsbdx sup os6450 p48 mlx ssol  chdax 43 71175  1 039828 ;34;erreur supervision ;43
+4467;152;os6450 p48 mlx ssol chdax axcsbdx sup os6450 p48 mlx ssol  chdax 43 71175  1 039828 ;0;site ok ;23
+4469;152;os6450 p48 mlx ssol chdax axcsbdx sup os6450 p48 mlx ssol  chdax 43 71175  1 039828 ;8;defaut serveur nagios axian ;16
+4475;152;os6450 p48 mlx ssol chdax axcsbdx sup os6450 p48 mlx ssol  chdax 43 71175  1 039828 ;36;erreur sup ;13
+4470;152;os6450 p48 mlx ssol chdax axcsbdx sup os6450 p48 mlx ssol  chdax 43 71175  1 039828 ;13;pb regler ;12
+4487;153;alimentation hs ;43;remplacement power injector ;5
+4483;153;alimentation hs ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;4
+4484;153;alimentation hs ;36;erreur sup ;3
+4479;153;alimentation hs ;4;perimetr ;2
+4481;153;alimentation hs ;13;pb regler ;2
+4512;154;probleme ntp switchs cisco 4507 serveur ntp ipam ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;35
+4495;154;probleme ntp switchs cisco 4507 serveur ntp ipam ;13;pb regler ;25
+4502;154;probleme ntp switchs cisco 4507 serveur ntp ipam ;33;demande traiter ;17
+4491;154;probleme ntp switchs cisco 4507 serveur ntp ipam ;4;perimetr ;16
+4506;154;probleme ntp switchs cisco 4507 serveur ntp ipam ;39;nom ;13
+4521;155;de acces timewis intranet ;13;pb regler ;47
+4524;155;de acces timewis intranet ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;39
+4543;155;de acces timewis intranet ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;34
+4536;155;de acces timewis intranet ;37;resolu ;24
+4514;155;de acces timewis intranet ;4;perimetr ;16
+4557;156;incider generique ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;15
+4559;156;incider generique ;20;site nouveau operationnelle ;15
+4547;156;incider generique ;4;perimetr ;11
+4554;156;incider generique ;13;pb regler ;11
+4573;156;incider generique ;37;resolu ;11
+4594;157;high co incident wifi highco ai ;13;pb regler ;60
+4616;157;high co incident wifi highco ai ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;42
+4596;157;high co incident wifi highco ai ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;34
+4609;157;high co incident wifi highco ai ;37;resolu ;20
+4598;157;high co incident wifi highco ai ;20;site nouveau operationnelle ;18
+4624;158;probleme routag ;13;pb regler ;65
+4627;158;probleme routag ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;57
+4647;158;probleme routag ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;32
+4643;158;probleme routag ;39;nom ;28
+4641;158;probleme routag ;37;resolu ;22
+4672;159;groupe pichet frpe1 erreur lien reception port channel1 8x5x4 ;36;erreur sup ;11
+4661;159;groupe pichet frpe1 erreur lien reception port channel1 8x5x4 ;20;site nouveau operationnelle ;10
+4656;159;groupe pichet frpe1 erreur lien reception port channel1 8x5x4 ;13;pb regler ;8
+4658;159;groupe pichet frpe1 erreur lien reception port channel1 8x5x4 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;8
+4673;159;groupe pichet frpe1 erreur lien reception port channel1 8x5x4 ;37;resolu ;8
+4704;160;test 2 ;43;remplacement power injector ;25
+4697;160;test 2 ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;14
+4692;160;test 2 ;20;site nouveau operationnelle ;11
+4706;160;test 2 ;46;validation supervision ;10
+4707;160;test 2 ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;9
+4717;161;attente operateur bouygue telecom entreprendre vinci energie systeme de information  prise charg 654279 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;31
+4714;161;attente operateur bouygue telecom entreprendre vinci energie systeme de information  prise charg 654279 ;10;clotur stabilite lien ;25
+4708;161;attente operateur bouygue telecom entreprendre vinci energie systeme de information  prise charg 654279 ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;9
+4734;161;attente operateur bouygue telecom entreprendre vinci energie systeme de information  prise charg 654279 ;48;site ok cloture ;8
+4730;161;attente operateur bouygue telecom entreprendre vinci energie systeme de information  prise charg 654279 ;40;service stable equipement bien remonter supervision validon bon retour service procedon clotur ticket ;7
+4750;162;liaison station ;20;site nouveau operationnelle ;27
+4768;162;liaison station ;46;validation supervision ;22
+4745;162;liaison station ;13;pb regler ;17
+4739;162;liaison station ;4;perimetr ;14
+4770;162;liaison station ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;14
+4779;163;2009n64868 lenteur le agence ;13;pb regler ;21
+4782;163;2009n64868 lenteur le agence ;20;site nouveau operationnelle ;21
+4781;163;2009n64868 lenteur le agence ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;16
+4801;163;2009n64868 lenteur le agence ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;14
+4787;163;2009n64868 lenteur le agence ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;11
+4804;164;ams monitoring alert rt et fw down ;10;clotur stabilite lien ;2
+4806;164;ams monitoring alert rt et fw down ;18;lien operationnel ;2
+4807;164;ams monitoring alert rt et fw down ;20;site nouveau operationnelle ;2
+4809;164;ams monitoring alert rt et fw down ;23;client ;2
+4810;164;ams monitoring alert rt et fw down ;25;perte liaison operateur 30 minute ;2
+4826;165;coupure total service ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;20
+4820;165;coupure total service ;6;redemarrage le equipement fournir lien mpl ;7
+4823;165;coupure total service ;10;clotur stabilite lien ;7
+4818;165;coupure total service ;3;coupure electrique ;6
+4839;165;coupure total service ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;5
+4858;166;probleme lign telecom dc ida fr1174a ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;12
+4842;166;probleme lign telecom dc ida fr1174a ;4;perimetr ;4
+4847;166;probleme lign telecom dc ida fr1174a ;13;pb regler ;3
+4854;166;probleme lign telecom dc ida fr1174a ;33;demande traiter ;3
+4856;166;probleme lign telecom dc ida fr1174a ;39;nom ;3
+4868;167;incider sfr ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;9
+4877;167;incider sfr ;37;resolu ;8
+4866;167;incider sfr ;14;le incident etre resoudre le operateur ;7
+4883;167;incider sfr ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;7
+4862;167;incider sfr ;8;defaut serveur nagios axian ;5
+4888;168;ams monitoring alert node fr xr fr mur tr10011 core ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;24
+4884;168;ams monitoring alert node fr xr fr mur tr10011 core ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;7
+4886;168;ams monitoring alert node fr xr fr mur tr10011 core ;6;redemarrage le equipement fournir lien mpl ;5
+4887;168;ams monitoring alert node fr xr fr mur tr10011 core ;10;clotur stabilite lien ;5
+4904;168;ams monitoring alert node fr xr fr mur tr10011 core ;39;nom ;5
+4915;169;astreinte problem crystal 14 ;13;pb regler ;18
+4918;169;astreinte problem crystal 14 ;20;site nouveau operationnelle ;13
+4931;169;astreinte problem crystal 14 ;39;nom ;9
+4935;169;astreinte problem crystal 14 ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;9
+4917;169;astreinte problem crystal 14 ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;6
+4945;170;de internet ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;18
+4946;170;de internet ;20;site nouveau operationnelle ;12
+4942;170;de internet ;13;pb regler ;10
+4947;170;de internet ;21;lien operationnel connexion ok ;8
+4943;170;de internet ;14;le incident etre resoudre le operateur ;5
+4982;171;internet local dysfonctionnemer ;20;site nouveau operationnelle ;24
+4996;171;internet local dysfonctionnemer ;37;resolu ;14
+4979;171;internet local dysfonctionnemer ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;13
+4977;171;internet local dysfonctionnemer ;13;pb regler ;12
+5002;171;internet local dysfonctionnemer ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;12
+5019;172;beck sur sev3 sur c19849562 notification suivre ;38;ferme sfr ;76
+5009;172;beck sur sev3 sur c19849562 notification suivre ;4;perimetr ;10
+5022;172;beck sur sev3 sur c19849562 notification suivre ;48;site ok cloture ;10
+5007;172;beck sur sev3 sur c19849562 notification suivre ;0;site ok ;7
+5011;172;beck sur sev3 sur c19849562 notification suivre ;17;cloture ;7
+5038;173;probleme connexion wifi ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;52
+5035;173;probleme connexion wifi ;13;pb regler ;17
+5039;173;probleme connexion wifi ;20;site nouveau operationnelle ;13
+5050;173;probleme connexion wifi ;36;erreur sup ;13
+5051;173;probleme connexion wifi ;37;resolu ;12
+5087;174;problem host alert dlink lab is down ;35;situation nominal ;28
+5076;174;problem host alert dlink lab is down ;20;site nouveau operationnelle ;25
+5066;174;problem host alert dlink lab is down ;6;redemarrage le equipement fournir lien mpl ;24
+5080;174;problem host alert dlink lab is down ;24;doublon ;17
+5078;174;problem host alert dlink lab is down ;22;service retablir suite redemarrage electrique routeur ;16
+5106;175;ok am monitoring alert ;47;lien bien joignable cloturon ticket ;13
+5103;175;ok am monitoring alert ;27;2 equipement redemarrer electriquement system up time 0 day 8 hr 18 min 34 sec ;9
+5097;175;ok am monitoring alert ;4;perimetr ;1
+5098;175;ok am monitoring alert ;6;redemarrage le equipement fournir lien mpl ;1
+5099;175;ok am monitoring alert ;10;clotur stabilite lien ;1
+5125;176;ap injoignable ;46;validation supervision ;46
+5120;176;ap injoignable ;36;erreur sup ;22
+5123;176;ap injoignable ;43;remplacement power injector ;21
+5124;176;ap injoignable ;44;remplacemer switch ;12
+5110;176;ap injoignable ;7;intervention realiser ;10
+5168;177;incident materiel alcatel switch ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;38
+5159;177;incident materiel alcatel switch ;39;nom ;37
+5141;177;incident materiel alcatel switch ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;36
+5138;177;incident materiel alcatel switch ;13;pb regler ;32
+5143;177;incident materiel alcatel switch ;20;site nouveau operationnelle ;23
+5192;178;problem service alert ro mx240 w10 232g sur etat interface is critical ;35;situation nominal ;41
+5173;178;problem service alert ro mx240 w10 232g sur etat interface is critical ;6;redemarrage le equipement fournir lien mpl ;26
+5184;178;problem service alert ro mx240 w10 232g sur etat interface is critical ;20;site nouveau operationnelle ;23
+5170;178;problem service alert ro mx240 w10 232g sur etat interface is critical ;3;coupure electrique ;20
+5187;178;problem service alert ro mx240 w10 232g sur etat interface is critical ;24;doublon ;19
+5217;179;connexion distanc ;20;site nouveau operationnelle ;27
+5205;179;connexion distanc ;6;redemarrage le equipement fournir lien mpl ;18
+5219;179;connexion distanc ;22;service retablir suite redemarrage electrique routeur ;15
+5239;179;connexion distanc ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;15
+5231;179;connexion distanc ;37;resolu ;14
+5264;180;pas reponse am monitoring alert ;35;situation nominal ;15
+5258;180;pas reponse am monitoring alert ;24;doublon ;12
+5262;180;pas reponse am monitoring alert ;31;ticket doublon ;10
+5266;180;pas reponse am monitoring alert ;37;resolu ;10
+5240;180;pas reponse am monitoring alert ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;7
+5289;181;ams monitoring alert node sonde app maf ;20;site nouveau operationnelle ;42
+5285;181;ams monitoring alert node sonde app maf ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;33
+5277;181;ams monitoring alert node sonde app maf ;6;redemarrage le equipement fournir lien mpl ;28
+5292;181;ams monitoring alert node sonde app maf ;23;client ;27
+5304;181;ams monitoring alert node sonde app maf ;37;resolu ;27
+5325;182;perte connexion rt fr montesson ;22;service retablir suite redemarrage electrique routeur ;59
+5315;182;perte connexion rt fr montesson ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;12
+5322;182;perte connexion rt fr montesson ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;12
+5335;182;perte connexion rt fr montesson ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;10
+5317;182;perte connexion rt fr montesson ;6;redemarrage le equipement fournir lien mpl ;7
+5345;183;problem de uccopia ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;11
+5352;183;problem de uccopia ;24;doublon ;10
+5348;183;problem de uccopia ;20;site nouveau operationnelle ;8
+5338;183;problem de uccopia ;4;perimetr ;7
+5336;183;problem de uccopia ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;6
+5386;184;perte connexion sit ;22;service retablir suite redemarrage electrique routeur ;75
+5395;184;perte connexion sit ;35;situation nominal ;23
+5381;184;perte connexion sit ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;20
+5377;184;perte connexion sit ;10;clotur stabilite lien ;16
+5402;184;perte connexion sit ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;16
+5410;185;groupe pichet frte1 node frte111sw01 down 24x7x4 ;6;redemarrage le equipement fournir lien mpl ;41
+5421;185;groupe pichet frte1 node frte111sw01 down 24x7x4 ;20;site nouveau operationnelle ;24
+5432;185;groupe pichet frte1 node frte111sw01 down 24x7x4 ;35;situation nominal ;21
+5418;185;groupe pichet frte1 node frte111sw01 down 24x7x4 ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;14
+5408;185;groupe pichet frte1 node frte111sw01 down 24x7x4 ;3;coupure electrique ;13
+5458;186;ap bagote ;43;remplacement power injector ;34
+5460;186;ap bagote ;46;validation supervision ;30
+5459;186;ap bagote ;44;remplacemer switch ;24
+5455;186;ap bagote ;36;erreur sup ;23
+5447;186;ap bagote ;13;pb regler ;6
+5474;187;ucopia ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;69
+5471;187;ucopia ;13;pb regler ;43
+5490;187;ucopia ;37;resolu ;37
+5464;187;ucopia ;4;perimetr ;30
+5497;187;ucopia ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;30
+5517;188;borne wifi hs ;36;erreur sup ;33
+5520;188;borne wifi hs ;43;remplacement power injector ;29
+5521;188;borne wifi hs ;44;remplacemer switch ;23
+5504;188;borne wifi hs ;13;pb regler ;19
+5524;188;borne wifi hs ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;17
+5529;189;frrouapwsdr001 host down critical ;5;borne up ;141
+5551;189;frrouapwsdr001 host down critical ;35;situation nominal ;60
+5552;189;frrouapwsdr001 host down critical ;36;erreur sup ;49
+5560;189;frrouapwsdr001 host down critical ;48;site ok cloture ;42
+5546;189;frrouapwsdr001 host down critical ;29;equipement joignable cloturon ;33
+5568;190;vincienergie fr0337ara01 10 195 2 157 fr0337ara01 10 195 2 157 is down ;6;redemarrage le equipement fournir lien mpl ;21
+5593;190;vincienergie fr0337ara01 10 195 2 157 fr0337ara01 10 195 2 157 is down ;35;situation nominal ;19
+5579;190;vincienergie fr0337ara01 10 195 2 157 fr0337ara01 10 195 2 157 is down ;20;site nouveau operationnelle ;16
+5604;190;vincienergie fr0337ara01 10 195 2 157 fr0337ara01 10 195 2 157 is down ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;14
+5582;190;vincienergie fr0337ara01 10 195 2 157 fr0337ara01 10 195 2 157 is down ;23;client ;13
+5617;191;hcl uniha a4lcb1 s1 chu lyon fr snmp cisco 3850 alim 2a snmp cisco 3850 alim 2b is down at least 15 min ;20;site nouveau operationnelle ;11
+5616;191;hcl uniha a4lcb1 s1 chu lyon fr snmp cisco 3850 alim 2a snmp cisco 3850 alim 2b is down at least 15 min ;19;bug cosmetique cisco le alimentation fonctionne normalement sw pid serial statu sy pwr poe pwr watt 1a pwr c1 715wac dcb1902g03k ok good good 715 1b pwr c1 715wac lit19351dr1 ok good good 715 2a pwr c1 715wac dcb1910g14v ok good good 715 2b pwr c1 715wac dcb1910g12 t no response good good 715 ;9
+5615;191;hcl uniha a4lcb1 s1 chu lyon fr snmp cisco 3850 alim 2a snmp cisco 3850 alim 2b is down at least 15 min ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;6
+5607;191;hcl uniha a4lcb1 s1 chu lyon fr snmp cisco 3850 alim 2a snmp cisco 3850 alim 2b is down at least 15 min ;6;redemarrage le equipement fournir lien mpl ;5
+5610;191;hcl uniha a4lcb1 s1 chu lyon fr snmp cisco 3850 alim 2a snmp cisco 3850 alim 2b is down at least 15 min ;9;liaison rester operationnel suite de un test connectiviter dossier clore ;5
+5648;192;cisco rt fle is down ;22;service retablir suite redemarrage electrique routeur ;40
+5636;192;cisco rt fle is down ;6;redemarrage le equipement fournir lien mpl ;22
+5657;192;cisco rt fle is down ;35;situation nominal ;19
+5632;192;cisco rt fle is down ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;17
+5646;192;cisco rt fle is down ;20;site nouveau operationnelle ;16
+5669;193;interface down ;20;site nouveau operationnelle ;2
+5668;193;interface down ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;1
+5670;193;interface down ;23;client ;1
+5671;193;interface down ;36;erreur sup ;1
+5672;193;interface down ;39;nom ;1
+5693;194;marly ville sev2 c23622132 notification suivre ;38;ferme sfr ;90
+5696;194;marly ville sev2 c23622132 notification suivre ;48;site ok cloture ;41
+5676;194;marly ville sev2 c23622132 notification suivre ;2;cloture dossier ;25
+5688;194;marly ville sev2 c23622132 notification suivre ;31;ticket doublon ;22
+5681;194;marly ville sev2 c23622132 notification suivre ;17;cloture ;16
+5722;195;switch hs ;46;validation supervision ;78
+5720;195;switch hs ;43;remplacement power injector ;68
+5721;195;switch hs ;44;remplacemer switch ;41
+5715;195;switch hs ;36;erreur sup ;32
+5710;195;switch hs ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;15
+5731;196;alarme outil monitoring ;11;we have been advised about the rfo  avoir flap of fiber link between 2 supplier backbone router lead to crash of vpl routing service were switched to backup router and are now normalized  ;16
+5725;196;alarme outil monitoring ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;9
+5734;196;alarme outil monitoring ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;8
+5728;196;alarme outil monitoring ;6;redemarrage le equipement fournir lien mpl ;7
+5740;196;alarme outil monitoring ;27;2 equipement redemarrer electriquement system up time 0 day 8 hr 18 min 34 sec ;6
+5789;197;demande rma v s720 10 gramme ;49;service retablir bagottemer trop rapide alarme n avoir temp d etre  clearer   dans sup ;55
+5765;197;demande rma v s720 10 gramme ;13;pb regler ;38
+5780;197;demande rma v s720 10 gramme ;36;erreur sup ;29
+5774;197;demande rma v s720 10 gramme ;26;suite projet remplacement switch hs switch dell procedon clotur dossier passon equipement mute alerte concerner informer planning deploiemer ;26
+5767;197;demande rma v s720 10 gramme ;16;mauvais definition de un objet concentrateur suite modification sup le australie ;22
+5797;198;routeur 4 gramme ;21;lien operationnel connexion ok ;26
+5791;198;routeur 4 gramme ;7;intervention realiser ;15
+5805;198;routeur 4 gramme ;46;validation supervision ;14
+5804;198;routeur 4 gramme ;43;remplacement power injector ;8
+5796;198;routeur 4 gramme ;20;site nouveau operationnelle ;7
+5817;199;airbus elancourt confirmation rmer axians spie ;15;service operationnel suite reboot equipement test correct validon bon fonctionnement service ;16
+5829;199;airbus elancourt confirmation rmer axians spie ;45;redemarrage le equipement fournir lien mpl bon fonctionnement reseau etre valider client ;10
+5813;199;airbus elancourt confirmation rmer axians spie ;10;clotur stabilite lien ;7
+5808;199;airbus elancourt confirmation rmer axians spie ;1;service operationnel aucun maintenance curatif test correct validon bon fonctionnement service ;6
+5816;199;airbus elancourt confirmation rmer axians spie ;14;le incident etre resoudre le operateur ;5
