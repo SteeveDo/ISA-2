@@ -7,10 +7,11 @@ services:
         restart: always
         build:
             context: .
-        ports: 
-            - 7070:7000
-#         expose:
-#             - 5000
+            dockerfile: dockerfile
+#        ports: 
+#            - 7070:7000
+        expose:
+            - 7000
 #         labels:
 #             - "traefik.enable=true" # enable traefik
 #             - "traefik.http.routers.isaapi.rule=Host(`api-isa.recette.axians.net`)"
