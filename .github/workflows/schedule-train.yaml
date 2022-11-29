@@ -16,7 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Test schedule
-        uses: actions/checkout@v2
         if: github.event_name == 'schedule'
         run: |
           now=$(date +%s)
