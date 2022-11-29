@@ -8,7 +8,7 @@ app=FastAPI()
 class Item(BaseModel):
     message:str
 
-@app.get("/test")
+@app.get("/")
 async def root():
     return {
             "message": "API CHATBOT"
