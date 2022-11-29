@@ -1,8 +1,10 @@
 name: Réentrainement du modèle
 
 on:
+  push:
+    branches: ['master']
   schedule:
-    - cron: "23 18 * * TUE"
+    - cron: "35 18 * * TUE"
 
 env:
   REGISTRY: ghcr.io
