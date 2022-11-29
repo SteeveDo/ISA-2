@@ -2,7 +2,7 @@ name: Réentrainement du modèle
 
 on:
   schedule:
-    - cron: "20 18 * * TUE"
+    - cron: "23 18 * * TUE"
 
 env:
   REGISTRY: ghcr.io
