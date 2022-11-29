@@ -4,7 +4,7 @@ on:
   push:
     branches: ['master']
   schedule:
-    - cron: "35 18 * * TUE"
+    - cron: "15 21 * * TUE"
 
 env:
   REGISTRY: ghcr.io
@@ -22,14 +22,5 @@ jobs:
     
     steps:
       - name: Test schedule
-        run: |
-          now=$(date +%s)
-          local_time=$(date -d "$LOCAL_TIME" +%s)
-
-          if [[ $now -gt $local_time && $now -lt "$((local_time + 3600))" ]]; then
-              echo "🌞 Passed daylight savings time check!"
-          else    
-              echo "⏱ Waiting until $LOCAL_TIME."
-              exit 1
-          fi
+        run: echo " Réussi "
   
