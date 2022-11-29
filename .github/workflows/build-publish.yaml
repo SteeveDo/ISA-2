@@ -29,7 +29,6 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
         with:
-          context: ./expresso
+          context: .
           push: true
-          file: ./expresso/Dockerfile.multistage
           tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
