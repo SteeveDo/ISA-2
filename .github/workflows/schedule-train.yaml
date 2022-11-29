@@ -14,9 +14,12 @@ env:
 jobs:
   test-date:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    
     steps:
       - name: Test schedule
-        if: github.event_name == 'schedule'
         run: |
           now=$(date +%s)
           local_time=$(date -d "$LOCAL_TIME" +%s)
