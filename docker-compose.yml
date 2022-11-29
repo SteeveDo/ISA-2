@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+    chatbot:
+        # image: test_api:latest
+        container_name: chatbot_container
+        restart: unless-stopped
+        build:  
+            context: .
+        ports: 
+            - 7070:7000
+        volumes:
+            - ./app:/code/app
+        # network_mode: host
+#         expose:
+#             - 5000
+#         labels:
+#             - "traefik.enable=true" # enable traefik
+#             - "traefik.http.routers.isaapi.rule=Host(`api-isa.recette.axians.net`)"
+#             - "traefik.http.routers.isaapi.entrypoints=web"
+#             - "traefik.http.routers.isaapi-secure.rule=Host(`api-isa.recette.axians.net`)" 
+#             - "traefik.http.routers.isaapi-secure.entrypoints=websecure"                                            
+#             - "traefik.http.routers.isaapi.middlewares=to-https"
+#             - "traefik.http.middlewares.to-https.redirectscheme.scheme=https"                                                 
+#             - "traefik.http.routers.isaapi-secure.tls=true"                                                         
+#             - "traefik.http.routers.isaapi-secure.tls.certresolver=letsencrypt"
+#         networks:
+#             - default
+
+# networks:
+#     default:
+#       external:
+#         name: gateway

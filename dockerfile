@@ -1,14 +1,15 @@
-FROM tiangolo/uvicorn-gunicorn-fastapi:python3.9
+FROM python:3.9
 
+WORKDIR /code/app
 
-COPY ./requirements.txt /app/requirements.txt
+COPY ./requirements.txt /code/requirements.txt
 
-COPY ./fr_core_news_sm-3.4.0.tar.gz /app/fr_core_news_sm-3.4.0.tar.gz
+COPY ./fr_core_news_sm-3.4.0.tar.gz /code/app/fr_core_news_sm-3.4.0.tar.gz
 
-RUN pip install --no-cache-dir --upgrade -r /app/requirements.txt
+RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
-WORKDIR /app/app
+COPY ./app /code/app/
 
 EXPOSE 7000
 
-COPY ./app /app/app
+CMD ["python", "main.py"]

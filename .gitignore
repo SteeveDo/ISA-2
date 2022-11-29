@@ -1,4 +1,3 @@
 ./__pycache__/
-./dockerignore
 ./requirements.txt
-./docker-compose*
+#./docker-compose*
