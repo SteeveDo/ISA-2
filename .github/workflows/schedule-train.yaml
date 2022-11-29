@@ -1,0 +1,31 @@
+name: Réentrainement du modèle
+
+on:
+  schedule:
+    cron: "17 18 * * TUE"
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: isa-2
+  user: steevedo
+  TZ: "Europe/Paris"
+  LOCAL_TIME: "22:00"
+  
+jobs:
+  test-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test schedule
+        uses: actions/checkout@v2
+        if: github.event_name == 'schedule'
+        run: |
+          now=$(date +%s)
+          local_time=$(date -d "$LOCAL_TIME" +%s)
+
+          if [[ $now -gt $local_time && $now -lt "$((local_time + 3600))" ]]; then
+              echo "🌞 Passed daylight savings time check!"
+          else    
+              echo "⏱ Waiting until $LOCAL_TIME."
+              exit 1
+          fi
+  
