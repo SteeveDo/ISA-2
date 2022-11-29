@@ -11,6 +11,7 @@ env:
   IMAGE_NAME: isa-2
   user: steevedo
   TZ: "Europe/Paris"
+  LOCAL_TIME: "21:35"
   
 jobs:
   test-date:
@@ -21,5 +22,16 @@ jobs:
     
     steps:
       - name: Test schedule
-        run: echo " $(date +'%Y-%m-%d')"
+        run:  |
+          now=$(date +%s)
+          local_time=$(date -d "$LOCAL_TIME" +%s)
+          echo "$now"
+          echo "$local_time"
+
+
+          if [[ $now -gt $local_time && $now -lt "$((local_time + 3600))" ]]; then
+              echo "🌞 Passed daylight savings time check!"
+          else    
+              echo "⏱ Waiting until $LOCAL_TIME."
+          fi
   
