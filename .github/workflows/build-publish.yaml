@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ env.REGISTRY.lowercase }}/${{ env.IMAGE_NAME.lowercase }}:0
+          tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:0
