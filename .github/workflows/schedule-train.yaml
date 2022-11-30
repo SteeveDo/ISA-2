@@ -2,7 +2,7 @@ name: Réentrainement du modèle
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/15 * * * *"
 env:
   LOCAL_TIME: "02:16"
 
