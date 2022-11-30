@@ -1,8 +1,10 @@
 name: Réentrainement du modèle
 
 on:
-  schedule:
-    - cron: "30 11 * * WED"
+  push:
+    branches: ["master"]
+#  schedule:
+#    - cron: "30 11 * * WED"
 
 jobs:
   Reentrainement:
