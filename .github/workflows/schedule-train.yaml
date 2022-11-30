@@ -2,23 +2,26 @@ name: Réentrainement du modèle
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
-env:
-  LOCAL_TIME: "02:16"
+    - cron: "30 11 * * WED"
 
 jobs:
-  test-date:
+  Reentrainement:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Test schedule
-        run:  |
-          now=$(date +%s)
-          local_time=$(date -d "$LOCAL_TIME" +%s)
 
-          if [[ $now -gt $local_time && $now -lt "$((local_time + 3600))" ]]; then
-              echo "🌞 Passed daylight savings time check!"
-          else    
-              echo "⏱ Waiting until $LOCAL_TIME."
-          fi
-  
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9' # install the python version needed
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: executer le script de réentrainement # run retrain_model.py to get the latest data
+        run: python retrain_model.py
