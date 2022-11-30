@@ -1,34 +1,21 @@
 name: Réentrainement du modèle
 
 on:
-  push:
-    branches: ['master']
   schedule:
-    - cron: "50 21 * * *"
-
+    - cron: "*/2 * * * *"
 env:
-  REGISTRY: ghcr.io
-  IMAGE_NAME: isa-2
-  user: steevedo
-  TZ: "Europe/Paris"
-  LOCAL_TIME: "21:50"
-  
+  LOCAL_TIME: "02:16"
+
 jobs:
   test-date:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-    
+
     steps:
       - name: Test schedule
         run:  |
           now=$(date +%s)
           local_time=$(date -d "$LOCAL_TIME" +%s)
-          echo "$now"
-          echo "$local_time"
-
-
+          
           if [[ $now -gt $local_time && $now -lt "$((local_time + 3600))" ]]; then
               echo "🌞 Passed daylight savings time check!"
           else    
