@@ -15,7 +15,7 @@ jobs:
         run:  |
           now=$(date +%s)
           local_time=$(date -d "$LOCAL_TIME" +%s)
-          
+
           if [[ $now -gt $local_time && $now -lt "$((local_time + 3600))" ]]; then
               echo "🌞 Passed daylight savings time check!"
           else    
