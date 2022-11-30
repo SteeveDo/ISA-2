@@ -24,4 +24,4 @@ jobs:
           pip install -r requirements.txt
           
       - name: executer le script de réentrainement # run retrain_model.py to get the latest data
-        run: python retrain_model.py
+        run: python ./app/retrain_model.py
