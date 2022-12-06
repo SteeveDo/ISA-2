@@ -2,7 +2,7 @@ name: Créer et publier une image Docker
 
 on:
   push:
-    branches: ['deployment']
+    branches: ['master']
 
 env:
   REGISTRY: ghcr.io
